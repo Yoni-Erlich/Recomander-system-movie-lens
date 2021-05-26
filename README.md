@@ -3,8 +3,8 @@ Here I examine the use of colibrating filtering algorithms on the movie lens dat
 
 Main code file - recomandr_system_movie_les.ipynb
 
-In this project I examine three basic algorithms of collabirating filtering : cosine similartiy, pearson similarty and matrix factorixation vis SVD algorithms. 
-After examination it was found that the matrix factorixation giveS the best result via f1 score and RMSE wise. 
+In this project I examine three basic algorithms of collabirating filtering : cosine similartiy, pearson similarty and matrix factorixation vis SVD algorithm using the suprise library. 
+After examination it was found that the matrix factorixation algorithm gives the best result via f1 score and RMSE wise. 
 
 Then basing on user similarties, for each user, was created a 10 movie recomandation list and an estimation of the rating. 
 
